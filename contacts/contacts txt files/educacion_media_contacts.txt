@@ -1,0 +1,22 @@
+Jorge Rojas F.	Subdirector Educación Media	jrojasf@cvd.cl
+José Aravena R.	Coordinador Académico Educación Media	jaravenar@cvd.cl
+Michel Le Feuvre B.	Coordinador Orientación Educación Media	mlefeuvre@cvd.cl
+Hervi Faúndez P.	Coordinador Pastoral Educación Media	hfaundezp@cvd.cl
+Eugenio Carrasco G.	Profesor 1 Medio A	ecarrascog@cvd.cl
+Claudia González L.	Profesor Jefe 1 Medio B	cgonzalezl@cvd.cl
+Clarita Sánchez C.	Profesor Jefe 1 Medio C	msanchezc@cvd.cl
+Ernesto Dupré L.	Profesor Jefe 1 Medio D	edupre@cvd.cl
+Claudio Cabezas J.	Profesor Jefe 2 Medio A	ccabezasj@cvd.cl
+Ricardo Riquelme V.	Profesor Jefe 2 Medio B	rriquelmev@cvd.cl
+Gonzalo Chuaqui S.	Profesor Jefe 2 Medio C	gchuaquis@cvd.cl
+Guillermo López G.	Profesor Jefe 2 Medio D	glopezg@cvd.cl
+Mauricio Torres Y.	Profesora Jefe 3 Medio A – Matemático	mtorresy@cvd.cl
+Alejandro Suárez L.	Profesora Jefe 3 Medio B – Ciencias	asuarezl@cvd.cl
+Luis Vargas R.	Profesor Jefe 3 Medio C – Humanidades	lvargas@cvd.cl
+Rosario Infante C.	Profesor Jefe 3 Medio D – Comunicación y Arte	minfantec@cvd.cl
+José Luis Rebolledo M.	Profesora Jefe 3 Medio E- Económico	jrebolledom@cvd.cl
+Soledad Valenzuela E.	Profesor Jefe 4 Medio A – Matemático	mvalenzuelae@cvd.cl
+Fabiola Gallardo S.	Profesor Jefe 4 Medio B – Ciencias	fgallardos@cvd.cl
+Manuel Cornejo C.	Profesor Jefe 4 Medio C – Humanidades	mcornejoc@cvd.cl
+Ricardo Pino T.	Profesor Jefe 4 Medio D – Comunicación y Arte	lpinot@cvd.cl
+María Cristina Alba R.	Profesor Jefe 4 Medio E – Económico	malbar@cvd.cl

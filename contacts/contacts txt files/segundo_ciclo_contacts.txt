@@ -1,0 +1,20 @@
+Sergio Garrido G.	Subdirector Segundo Ciclo Básico	sgarrido@cvd.cl
+María Beatriz Ziliani I.	Coordinadora Académica Segundo Ciclo Básico	bziliani@cvd.cl
+Andrés Hurtado de Mendoza D.	Coordinador Pastoral Segundo Ciclo Básico	ahurtadodemendoza@cvd.cl
+Ana Isabel Vargas O.	Coordinadora Orientación Segundo Ciclo Básico	avargaso@cvd.cl
+Cristina Serrano S.	Profesora Jefe V Básico A	mserranos@cvd.cl
+Eleonora Gutiérrez A.	Profesora Jefe V Básico B	egutierreza@cvd.cl
+Olga Jeraldo I.	Profesora Jefe V Básico C	ojeraldoi@cvd.cl
+Pilar Ramírez M.	Profesora Jefe V Básico D	pramirezm@cvd.cl
+Antonia Subercaseaux U.	Profesora Jefe VI Básico A	asubercaseauxu@cvd.cl
+Paola Valencia R.	Profesora Jefe VI Básico B	pvalenciar@cvd.cl
+Rosita González S.	Profesora Jefe VI Básico C	rgonzalezs@cvd.cl
+Carolina Seguel G.	Profesora Jefe VI Básico D	cseguelg@cvd.cl
+Loreto Varas N.	Profesora Jefe VII Básico A	lvarasn@cvd.cl
+Mónica Pavez G.	Profesora Jefe VII Básico B	mpavez@cvd.cl
+Juan Carlos Garrido I.	Profesora Jefe VII Básico C	jgarridoi@cvd.cl
+Andrés Hermida M.	Profesora Jefe VII Básico D	ahermidam@cvd.cl
+Marcela Suazo F.	Profesora Jefe VIII Básico A	msuazof@cvd.cl
+Nathalie Vargas P.	Profesora Jefe VIII Básico B	nvargas@cvd.cl
+Cecilia Cea A.	Profesora Jefe VIII Básico C	cceaa@cvd.cl
+Macarena Bornand Z.	Profesora Jefe VIII Básico D	mbornand@cvd.cl
