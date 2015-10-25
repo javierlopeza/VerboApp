@@ -1,9 +1,0 @@
-Ricardo Pino T.	Jefe Departamento de Arte y Tecnología	lpinot@cvd.cl
-Alejandro Suárez L.	Jefe Departamento de Ciencias	asuarezl@cvd.cl
-Germán Celis V.	Jefe Departamento de Ed. Física	gcelisv@cvd.cl
-Loreto Varas N.	Jefe Departamento FMV	lvarasn@cvd.cl
-José Luis Rebolledo M.	Jefe Departamento de Historia	jrebolledom@cvd.cl
-Mónica Pavez G.	Jefe Departamento de Inglés	mpavez@cvd.cl
-María Cristina Alba R.	Jefe Departamento Lenguaje y Comunicación	malbar@cvd.cl
-Humberto Méndez D.	Jefe Departamento de Matemática	jmendezd@cvd.cl
-Patricio Aguilera U.	Jefe Departamento de Música	paguilerau@cvd.cl
