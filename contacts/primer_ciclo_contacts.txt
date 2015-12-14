@@ -1,0 +1,23 @@
+Macarena Correa R.	Subdirectora Primer Ciclo Básico	mcorrea@cvd.cl
+Magdalena Perry E.	Coordinadora Académica Primer Ciclo Básico	mperry@cvd.cl
+María Elena Poblete S.	Coordinadora Pastoral Primer Ciclo Básico	mpobletes@cvd.cl
+Natalia Salazar B.	Coordinadora Orientación Primer Ciclo Básico	nsalazar@cvd.cl
+Francisca Silva R.	Profesora Jefe I Básico A	msilvar@cvd.cl
+Constanza Buzeta C.	Profesora jefe I Básico B.	mbuzetac@cvd.cl
+María Olga Silva D.	Profesora jefe I Básico C.	msilvad@cvd.cl
+Antonia Buzeta O.	Profesora jefe I Básico D	abuzetao@cvd.cl
+Francisca Balmaceda E.	Profesora jefe I Básico E	fbalmacedae@cvd.cl
+Alejandra Poblete A.	Profesora Jefe II Básico A	mpobletea@cvd.cl
+Claudia Padilla F.	Profesora Jefe II Básico B	cpadillaf@cvd.cl
+Karin Frey	Profesora Jefe II Básico C	msilvar@cvd.cl
+Verónica Benavente M.	Profesora Jefe II Básico D	mbenaventem@cvd.cl
+Alejandra Briones	Profesora Jefe II Básico E	mbrionesn@cvd.cl
+Cristina López P.	Profesora Jefe III Básico A	clopezp@cvd.cl
+Catalina Varas A.	Profesora Jefe III Básico B	cvaras@cvd.cl
+Clara Mendoza P.	Profesora Jefe III Básico C	cmendozap@cvd.cl
+Andrea Cañete P.	Profesora Jefe III Básico D	acanetep@cvd.cl
+Bernardita Álamos G.	Profesora Jefe III Básico E	balamosg@cvd.cl
+Adriana Larraín R.	Profesora Jefe IV Básico A	alarrainr@cvd.cl
+María Elena Laborde C.	Profesora Jefe IV Básico B	acanetep@cvd.cl
+María del Carmen Lorenzoni S.	Profesora Jefe IV Básico C	mlorenzonis@cvd.cl
+María Rosario Robert B.	Profesora Jefe IV Básico D	mrobertb@cvd.cl

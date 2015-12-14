@@ -2,7 +2,7 @@
 Repositorio para el desarrollo de la aplicación móvil iOS para el Verbo.
 
 ##Ideas a implementar
-* Mail `@verbo.cl` con Office 365 Outlook iOS Connect
+* Mail `@verbo.cl` recomendar descargar aplicación oficial Outlook, ingresando usuario y clave en Office 365.
 * Verbo Noticias
 * Login con RUT Apoderado, Clave
 	* Informe Educacional

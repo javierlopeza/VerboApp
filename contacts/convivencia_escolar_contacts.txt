@@ -1,0 +1,20 @@
+Christian Allan San Juan.	Subdirector de Convivencia Escolar	callans@cvd.cl
+María Paz Herrera J.	Psicóloga Convivencia Escolar	mherreraj@cvd.cl
+Daniella Nieto T.	Psicóloga Convivencia Escolar (Reemplazo) 	dnietot@cvd.cl
+María Gabriela Paschen S.	Inspectoría I Básico	mpaschens@cvd.cl
+Matías Ruz Q.	Inspectoría II Básico	mruz@cvd.cl
+Jorge Sierra M.	Inspectoría III Básico	jsierra@cvd.cl
+Patricio Garcés F.	Inspectoría IV Básico	pgarces@cvd.cl
+Nathalie Vargas P.	Inspectoría V Básico	nvargas@cvd.cl
+Carlos Hontavilla M.	Inspectoría V Básico	chontavillam@cvd.cl
+Matías Labbé J.	Inspectoría VII Básico	mlabbe@cvd.cl
+Guillermo Godoy A.	Inspectoría VIII Básico	ggodoy@cvd.cl
+Ricardo Riquelme V.	Inspectoría 1º Medio	rriquelmev@cvd.cl
+Francisco Fuentes G.	Inspectoría 2º y 3º Medio	ffuentesg@cvd.cl
+Miguel Fernández A.	Inspectoría 4º Medio	mfernandez@cvd.cl
+Luz Angélica Saavedra B.	Colaboración Inspectoría Educación Inicial	lsaavedrab@cvd.cl
+Jaime Muñoz M.	Colaboración Inspectoría Segundo Ciclo Básico 	jmunozm@cvd.cl
+Ana María Vásquez C.	Enfermería Turno Mañana	avasquez@cvd.cl
+María José Astorga L.	Enfermería Turno Mañana	mastorga@cvd.cl
+Perla Sanhueza V.	Enfermería Turno Tarde	psanhuezav@cvd.cl
+Ximena Leiva	Enfermería Turno Sábado	xleiva@cvd.cl

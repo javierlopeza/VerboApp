@@ -1,0 +1,25 @@
+	Subdirectora Educación Inicial	cmonsalvem@cvd.cl
+Marta Castro D.	Coordinadora Académica Educación Inicial	mcastrod@cvd.cl
+María José Gálvez F.	Coordinadora Pastoral Ciclo Inicial	mgalvezf@cvd.cl
+Ylona Bodis S.	Coordinadora Académica Educación Inicial	ybodiss@cvd.cl
+Cecilia Sánchez O.	Profesora Jefe Pre Kínder A	csanchezo@cvd.cl
+Patricia López C.	Co-Educadora Pre Kínder A	plopez@cvd.cl
+María José Jiménez C.	Profesora Jefe Pre Kínder B	mjimenezc@cvd.cl
+Francisca Marín R.	Co-Educadora Pre Kínder B	mmarinr@cvd.cl
+María José Lago E.	Profesora Jefe Pre Kínder C	mlagoe@cvd.cl
+Bernardita Covarrubias G.	Co-Educadora Pre Kínder C	mbcovarrubias@cvd.cl
+Marienka An der Fuhren V.	Profesora Jefe Pre Kínder D	manderfuhrenv@cvd.cl
+Cecilia Ventura S.	Co-Educadora Pre Kínder D	cventura@cvd.cl
+María Isabel Santos F.	Profesora Jefe Pre Kínder E	msantosf@cvd.cl
+Cecilia Coddou R.	Co-Educadora Pre Kínder E	ccoddour@cvd.cl
+Marcela Figueras G.	Profesora Jefe Kínder A	mfiguerasg@cvd.cl
+Francisca Scholtz R.	Co-Educadora Kínder A	fscholtzr@cvd.cl
+Paula Beckel G.	Profesora Jefe Kínder B	pbeckelg@cvd.cl
+Karina Wistuba L.	Co-Educadora Kínder B	kwistubal@cvd.cl
+Alejandra Mena	Profesora Jefe Kínder C	amenac@cvd.cl
+Belén Castaño G.	Co-Educadora Kínder C	acastano@cvd.cl
+Andrea Vidal G.	Profesora Jefe Kínder D	avidalg@cvd.cl
+Ma. Almendra Gárnica R.	Co-Educadora Kínder D	mgarnicar@cvd.cl
+	Profesora Jefe Kínder E	dsaavedrav@cvd.cl
+	Co-Educadora Kínder E	czumaran@cvd.cl
+Co-Educadora Kínder E	Email: 	
