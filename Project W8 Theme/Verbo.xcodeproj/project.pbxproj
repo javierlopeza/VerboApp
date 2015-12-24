@@ -1,0 +1,530 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3B8DCA711C2C800A002EAD81 /* Pista Atletismo Fondo Nevado.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 3B8DCA6E1C2C800A002EAD81 /* Pista Atletismo Fondo Nevado.JPG */; };
+		3B8DCA721C2C800A002EAD81 /* Patio Central Lluvia.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 3B8DCA6F1C2C800A002EAD81 /* Patio Central Lluvia.JPG */; };
+		3B8DCA731C2C800A002EAD81 /* Patio Central Coordillera.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3B8DCA701C2C800A002EAD81 /* Patio Central Coordillera.jpg */; };
+		3BF974541C2BBE0800C3B279 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF974531C2BBE0800C3B279 /* AppDelegate.swift */; };
+		3BF974561C2BBE0800C3B279 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF974551C2BBE0800C3B279 /* ViewController.swift */; };
+		3BF974591C2BBE0800C3B279 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BF974571C2BBE0800C3B279 /* Main.storyboard */; };
+		3BF9745B1C2BBE0800C3B279 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BF9745A1C2BBE0800C3B279 /* Assets.xcassets */; };
+		3BF9745E1C2BBE0800C3B279 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BF9745C1C2BBE0800C3B279 /* LaunchScreen.storyboard */; };
+		3BF974691C2BBE0800C3B279 /* VerboTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF974681C2BBE0800C3B279 /* VerboTests.swift */; };
+		3BF974741C2BBE0800C3B279 /* VerboUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BF974731C2BBE0800C3B279 /* VerboUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		3BF974651C2BBE0800C3B279 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3BF974481C2BBE0800C3B279 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3BF9744F1C2BBE0800C3B279;
+			remoteInfo = Verbo;
+		};
+		3BF974701C2BBE0800C3B279 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 3BF974481C2BBE0800C3B279 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 3BF9744F1C2BBE0800C3B279;
+			remoteInfo = Verbo;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		3B8DCA6E1C2C800A002EAD81 /* Pista Atletismo Fondo Nevado.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Pista Atletismo Fondo Nevado.JPG"; sourceTree = "<group>"; };
+		3B8DCA6F1C2C800A002EAD81 /* Patio Central Lluvia.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Patio Central Lluvia.JPG"; sourceTree = "<group>"; };
+		3B8DCA701C2C800A002EAD81 /* Patio Central Coordillera.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Patio Central Coordillera.jpg"; sourceTree = "<group>"; };
+		3BF974501C2BBE0800C3B279 /* Verbo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Verbo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BF974531C2BBE0800C3B279 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3BF974551C2BBE0800C3B279 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		3BF974581C2BBE0800C3B279 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3BF9745A1C2BBE0800C3B279 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3BF9745D1C2BBE0800C3B279 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3BF9745F1C2BBE0800C3B279 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BF974641C2BBE0800C3B279 /* VerboTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VerboTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BF974681C2BBE0800C3B279 /* VerboTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerboTests.swift; sourceTree = "<group>"; };
+		3BF9746A1C2BBE0800C3B279 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BF9746F1C2BBE0800C3B279 /* VerboUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = VerboUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BF974731C2BBE0800C3B279 /* VerboUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerboUITests.swift; sourceTree = "<group>"; };
+		3BF974751C2BBE0800C3B279 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3BF9744D1C2BBE0800C3B279 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BF974611C2BBE0800C3B279 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BF9746C1C2BBE0800C3B279 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3B8DCA741C2C801F002EAD81 /* Fotos Colegio */ = {
+			isa = PBXGroup;
+			children = (
+				3B8DCA6E1C2C800A002EAD81 /* Pista Atletismo Fondo Nevado.JPG */,
+				3B8DCA6F1C2C800A002EAD81 /* Patio Central Lluvia.JPG */,
+				3B8DCA701C2C800A002EAD81 /* Patio Central Coordillera.jpg */,
+			);
+			name = "Fotos Colegio";
+			sourceTree = "<group>";
+		};
+		3BF974471C2BBE0800C3B279 = {
+			isa = PBXGroup;
+			children = (
+				3BF974521C2BBE0800C3B279 /* Verbo */,
+				3BF974671C2BBE0800C3B279 /* VerboTests */,
+				3BF974721C2BBE0800C3B279 /* VerboUITests */,
+				3BF974511C2BBE0800C3B279 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3BF974511C2BBE0800C3B279 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3BF974501C2BBE0800C3B279 /* Verbo.app */,
+				3BF974641C2BBE0800C3B279 /* VerboTests.xctest */,
+				3BF9746F1C2BBE0800C3B279 /* VerboUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3BF974521C2BBE0800C3B279 /* Verbo */ = {
+			isa = PBXGroup;
+			children = (
+				3BF974531C2BBE0800C3B279 /* AppDelegate.swift */,
+				3BF974551C2BBE0800C3B279 /* ViewController.swift */,
+				3BF974571C2BBE0800C3B279 /* Main.storyboard */,
+				3BF9745A1C2BBE0800C3B279 /* Assets.xcassets */,
+				3B8DCA741C2C801F002EAD81 /* Fotos Colegio */,
+				3BF9745C1C2BBE0800C3B279 /* LaunchScreen.storyboard */,
+				3BF9745F1C2BBE0800C3B279 /* Info.plist */,
+			);
+			path = Verbo;
+			sourceTree = "<group>";
+		};
+		3BF974671C2BBE0800C3B279 /* VerboTests */ = {
+			isa = PBXGroup;
+			children = (
+				3BF974681C2BBE0800C3B279 /* VerboTests.swift */,
+				3BF9746A1C2BBE0800C3B279 /* Info.plist */,
+			);
+			path = VerboTests;
+			sourceTree = "<group>";
+		};
+		3BF974721C2BBE0800C3B279 /* VerboUITests */ = {
+			isa = PBXGroup;
+			children = (
+				3BF974731C2BBE0800C3B279 /* VerboUITests.swift */,
+				3BF974751C2BBE0800C3B279 /* Info.plist */,
+			);
+			path = VerboUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3BF9744F1C2BBE0800C3B279 /* Verbo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BF974781C2BBE0800C3B279 /* Build configuration list for PBXNativeTarget "Verbo" */;
+			buildPhases = (
+				3BF9744C1C2BBE0800C3B279 /* Sources */,
+				3BF9744D1C2BBE0800C3B279 /* Frameworks */,
+				3BF9744E1C2BBE0800C3B279 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Verbo;
+			productName = Verbo;
+			productReference = 3BF974501C2BBE0800C3B279 /* Verbo.app */;
+			productType = "com.apple.product-type.application";
+		};
+		3BF974631C2BBE0800C3B279 /* VerboTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BF9747B1C2BBE0800C3B279 /* Build configuration list for PBXNativeTarget "VerboTests" */;
+			buildPhases = (
+				3BF974601C2BBE0800C3B279 /* Sources */,
+				3BF974611C2BBE0800C3B279 /* Frameworks */,
+				3BF974621C2BBE0800C3B279 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3BF974661C2BBE0800C3B279 /* PBXTargetDependency */,
+			);
+			name = VerboTests;
+			productName = VerboTests;
+			productReference = 3BF974641C2BBE0800C3B279 /* VerboTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		3BF9746E1C2BBE0800C3B279 /* VerboUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BF9747E1C2BBE0800C3B279 /* Build configuration list for PBXNativeTarget "VerboUITests" */;
+			buildPhases = (
+				3BF9746B1C2BBE0800C3B279 /* Sources */,
+				3BF9746C1C2BBE0800C3B279 /* Frameworks */,
+				3BF9746D1C2BBE0800C3B279 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				3BF974711C2BBE0800C3B279 /* PBXTargetDependency */,
+			);
+			name = VerboUITests;
+			productName = VerboUITests;
+			productReference = 3BF9746F1C2BBE0800C3B279 /* VerboUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3BF974481C2BBE0800C3B279 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Javier López Achondo";
+				TargetAttributes = {
+					3BF9744F1C2BBE0800C3B279 = {
+						CreatedOnToolsVersion = 7.2;
+					};
+					3BF974631C2BBE0800C3B279 = {
+						CreatedOnToolsVersion = 7.2;
+						TestTargetID = 3BF9744F1C2BBE0800C3B279;
+					};
+					3BF9746E1C2BBE0800C3B279 = {
+						CreatedOnToolsVersion = 7.2;
+						TestTargetID = 3BF9744F1C2BBE0800C3B279;
+					};
+				};
+			};
+			buildConfigurationList = 3BF9744B1C2BBE0800C3B279 /* Build configuration list for PBXProject "Verbo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3BF974471C2BBE0800C3B279;
+			productRefGroup = 3BF974511C2BBE0800C3B279 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3BF9744F1C2BBE0800C3B279 /* Verbo */,
+				3BF974631C2BBE0800C3B279 /* VerboTests */,
+				3BF9746E1C2BBE0800C3B279 /* VerboUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3BF9744E1C2BBE0800C3B279 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BF9745E1C2BBE0800C3B279 /* LaunchScreen.storyboard in Resources */,
+				3BF9745B1C2BBE0800C3B279 /* Assets.xcassets in Resources */,
+				3B8DCA711C2C800A002EAD81 /* Pista Atletismo Fondo Nevado.JPG in Resources */,
+				3B8DCA731C2C800A002EAD81 /* Patio Central Coordillera.jpg in Resources */,
+				3BF974591C2BBE0800C3B279 /* Main.storyboard in Resources */,
+				3B8DCA721C2C800A002EAD81 /* Patio Central Lluvia.JPG in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BF974621C2BBE0800C3B279 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BF9746D1C2BBE0800C3B279 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3BF9744C1C2BBE0800C3B279 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BF974561C2BBE0800C3B279 /* ViewController.swift in Sources */,
+				3BF974541C2BBE0800C3B279 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BF974601C2BBE0800C3B279 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BF974691C2BBE0800C3B279 /* VerboTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		3BF9746B1C2BBE0800C3B279 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BF974741C2BBE0800C3B279 /* VerboUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		3BF974661C2BBE0800C3B279 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3BF9744F1C2BBE0800C3B279 /* Verbo */;
+			targetProxy = 3BF974651C2BBE0800C3B279 /* PBXContainerItemProxy */;
+		};
+		3BF974711C2BBE0800C3B279 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 3BF9744F1C2BBE0800C3B279 /* Verbo */;
+			targetProxy = 3BF974701C2BBE0800C3B279 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		3BF974571C2BBE0800C3B279 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3BF974581C2BBE0800C3B279 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3BF9745C1C2BBE0800C3B279 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3BF9745D1C2BBE0800C3B279 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3BF974761C2BBE0800C3B279 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		3BF974771C2BBE0800C3B279 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3BF974791C2BBE0800C3B279 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Verbo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = javloac.Verbo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3BF9747A1C2BBE0800C3B279 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = Verbo/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = javloac.Verbo;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		3BF9747C1C2BBE0800C3B279 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = VerboTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = javloac.VerboTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Verbo.app/Verbo";
+			};
+			name = Debug;
+		};
+		3BF9747D1C2BBE0800C3B279 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				INFOPLIST_FILE = VerboTests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = javloac.VerboTests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Verbo.app/Verbo";
+			};
+			name = Release;
+		};
+		3BF9747F1C2BBE0800C3B279 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = VerboUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = javloac.VerboUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Verbo;
+				USES_XCTRUNNER = YES;
+			};
+			name = Debug;
+		};
+		3BF974801C2BBE0800C3B279 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				INFOPLIST_FILE = VerboUITests/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = javloac.VerboUITests;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_TARGET_NAME = Verbo;
+				USES_XCTRUNNER = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3BF9744B1C2BBE0800C3B279 /* Build configuration list for PBXProject "Verbo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BF974761C2BBE0800C3B279 /* Debug */,
+				3BF974771C2BBE0800C3B279 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BF974781C2BBE0800C3B279 /* Build configuration list for PBXNativeTarget "Verbo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BF974791C2BBE0800C3B279 /* Debug */,
+				3BF9747A1C2BBE0800C3B279 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BF9747B1C2BBE0800C3B279 /* Build configuration list for PBXNativeTarget "VerboTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BF9747C1C2BBE0800C3B279 /* Debug */,
+				3BF9747D1C2BBE0800C3B279 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BF9747E1C2BBE0800C3B279 /* Build configuration list for PBXNativeTarget "VerboUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BF9747F1C2BBE0800C3B279 /* Debug */,
+				3BF974801C2BBE0800C3B279 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3BF974481C2BBE0800C3B279 /* Project object */;
+}
