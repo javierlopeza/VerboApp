@@ -1,0 +1,343 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		3B8873A61C3AEF0D00F887EB /* HorarioWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8873A51C3AEF0D00F887EB /* HorarioWebViewController.swift */; };
+		3B8873AA1C3B80E300F887EB /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8873A91C3B80E300F887EB /* Reachability.swift */; };
+		3B8873AE1C3B820900F887EB /* Colegio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3B8873AD1C3B820900F887EB /* Colegio.swift */; };
+		3BB94BCC1C3C73B90010F411 /* CalendarioWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BB94BCB1C3C73B90010F411 /* CalendarioWebViewController.swift */; };
+		3BBC7D3B1C39B5D3006E86BC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBC7D3A1C39B5D3006E86BC /* AppDelegate.swift */; };
+		3BBC7D3D1C39B5D3006E86BC /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBC7D3C1C39B5D3006E86BC /* HomeViewController.swift */; };
+		3BBC7D3F1C39B5D3006E86BC /* CalendarioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBC7D3E1C39B5D3006E86BC /* CalendarioViewController.swift */; };
+		3BBC7D421C39B5D3006E86BC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BBC7D401C39B5D3006E86BC /* Main.storyboard */; };
+		3BBC7D441C39B5D3006E86BC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3BBC7D431C39B5D3006E86BC /* Assets.xcassets */; };
+		3BBC7D471C39B5D3006E86BC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3BBC7D451C39B5D3006E86BC /* LaunchScreen.storyboard */; };
+		3BBC7D4F1C39B7BD006E86BC /* HorarioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBC7D4E1C39B7BD006E86BC /* HorarioViewController.swift */; };
+		3BBC7D511C39B822006E86BC /* IngresarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBC7D501C39B822006E86BC /* IngresarViewController.swift */; };
+		3BBC7D531C39B830006E86BC /* SitioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3BBC7D521C39B830006E86BC /* SitioViewController.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		3B8873A51C3AEF0D00F887EB /* HorarioWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HorarioWebViewController.swift; path = ../HorarioWebViewController.swift; sourceTree = "<group>"; };
+		3B8873A91C3B80E300F887EB /* Reachability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Reachability.swift; path = ../Reachability.swift; sourceTree = "<group>"; };
+		3B8873AD1C3B820900F887EB /* Colegio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Colegio.swift; path = ../Colegio.swift; sourceTree = "<group>"; };
+		3BB94BCB1C3C73B90010F411 /* CalendarioWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalendarioWebViewController.swift; sourceTree = "<group>"; };
+		3BBC7D371C39B5D3006E86BC /* Verbo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Verbo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3BBC7D3A1C39B5D3006E86BC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		3BBC7D3C1C39B5D3006E86BC /* HomeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeViewController.swift; sourceTree = "<group>"; };
+		3BBC7D3E1C39B5D3006E86BC /* CalendarioViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalendarioViewController.swift; sourceTree = "<group>"; };
+		3BBC7D411C39B5D3006E86BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		3BBC7D431C39B5D3006E86BC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		3BBC7D461C39B5D3006E86BC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		3BBC7D481C39B5D3006E86BC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3BBC7D4E1C39B7BD006E86BC /* HorarioViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = HorarioViewController.swift; path = ../HorarioViewController.swift; sourceTree = "<group>"; };
+		3BBC7D501C39B822006E86BC /* IngresarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = IngresarViewController.swift; path = ../IngresarViewController.swift; sourceTree = "<group>"; };
+		3BBC7D521C39B830006E86BC /* SitioViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SitioViewController.swift; path = ../SitioViewController.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		3BBC7D341C39B5D3006E86BC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		3B8873AF1C3B830200F887EB /* DataColegio */ = {
+			isa = PBXGroup;
+			children = (
+				3B8873AD1C3B820900F887EB /* Colegio.swift */,
+			);
+			name = DataColegio;
+			sourceTree = "<group>";
+		};
+		3B8873B01C3B830C00F887EB /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				3BBC7D3C1C39B5D3006E86BC /* HomeViewController.swift */,
+				3BBC7D3E1C39B5D3006E86BC /* CalendarioViewController.swift */,
+				3BB94BCB1C3C73B90010F411 /* CalendarioWebViewController.swift */,
+				3BBC7D4E1C39B7BD006E86BC /* HorarioViewController.swift */,
+				3B8873A51C3AEF0D00F887EB /* HorarioWebViewController.swift */,
+				3BBC7D501C39B822006E86BC /* IngresarViewController.swift */,
+				3BBC7D521C39B830006E86BC /* SitioViewController.swift */,
+			);
+			name = Views;
+			sourceTree = "<group>";
+		};
+		3BBC7D2E1C39B5D3006E86BC = {
+			isa = PBXGroup;
+			children = (
+				3BBC7D391C39B5D3006E86BC /* Verbo */,
+				3BBC7D381C39B5D3006E86BC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		3BBC7D381C39B5D3006E86BC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				3BBC7D371C39B5D3006E86BC /* Verbo.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		3BBC7D391C39B5D3006E86BC /* Verbo */ = {
+			isa = PBXGroup;
+			children = (
+				3BBC7D3A1C39B5D3006E86BC /* AppDelegate.swift */,
+				3B8873A91C3B80E300F887EB /* Reachability.swift */,
+				3B8873B01C3B830C00F887EB /* Views */,
+				3B8873AF1C3B830200F887EB /* DataColegio */,
+				3BBC7D401C39B5D3006E86BC /* Main.storyboard */,
+				3BBC7D431C39B5D3006E86BC /* Assets.xcassets */,
+				3BBC7D451C39B5D3006E86BC /* LaunchScreen.storyboard */,
+				3BBC7D481C39B5D3006E86BC /* Info.plist */,
+			);
+			name = Verbo;
+			path = "Verbo Tabs";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		3BBC7D361C39B5D3006E86BC /* Verbo */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 3BBC7D4B1C39B5D3006E86BC /* Build configuration list for PBXNativeTarget "Verbo" */;
+			buildPhases = (
+				3BBC7D331C39B5D3006E86BC /* Sources */,
+				3BBC7D341C39B5D3006E86BC /* Frameworks */,
+				3BBC7D351C39B5D3006E86BC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Verbo;
+			productName = "Verbo Tabs";
+			productReference = 3BBC7D371C39B5D3006E86BC /* Verbo.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		3BBC7D2F1C39B5D3006E86BC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Javier López Achondo";
+				TargetAttributes = {
+					3BBC7D361C39B5D3006E86BC = {
+						CreatedOnToolsVersion = 7.2;
+					};
+				};
+			};
+			buildConfigurationList = 3BBC7D321C39B5D3006E86BC /* Build configuration list for PBXProject "Verbo" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 3BBC7D2E1C39B5D3006E86BC;
+			productRefGroup = 3BBC7D381C39B5D3006E86BC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				3BBC7D361C39B5D3006E86BC /* Verbo */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		3BBC7D351C39B5D3006E86BC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3BBC7D471C39B5D3006E86BC /* LaunchScreen.storyboard in Resources */,
+				3BBC7D441C39B5D3006E86BC /* Assets.xcassets in Resources */,
+				3BBC7D421C39B5D3006E86BC /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		3BBC7D331C39B5D3006E86BC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				3B8873AE1C3B820900F887EB /* Colegio.swift in Sources */,
+				3BBC7D3F1C39B5D3006E86BC /* CalendarioViewController.swift in Sources */,
+				3BBC7D531C39B830006E86BC /* SitioViewController.swift in Sources */,
+				3B8873A61C3AEF0D00F887EB /* HorarioWebViewController.swift in Sources */,
+				3BBC7D3B1C39B5D3006E86BC /* AppDelegate.swift in Sources */,
+				3BBC7D4F1C39B7BD006E86BC /* HorarioViewController.swift in Sources */,
+				3BBC7D511C39B822006E86BC /* IngresarViewController.swift in Sources */,
+				3B8873AA1C3B80E300F887EB /* Reachability.swift in Sources */,
+				3BBC7D3D1C39B5D3006E86BC /* HomeViewController.swift in Sources */,
+				3BB94BCC1C3C73B90010F411 /* CalendarioWebViewController.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		3BBC7D401C39B5D3006E86BC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3BBC7D411C39B5D3006E86BC /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		3BBC7D451C39B5D3006E86BC /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				3BBC7D461C39B5D3006E86BC /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		3BBC7D491C39B5D3006E86BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		3BBC7D4A1C39B5D3006E86BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		3BBC7D4C1C39B5D3006E86BC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Verbo Tabs/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = javierlopeza.Verbo;
+				PRODUCT_NAME = Verbo;
+			};
+			name = Debug;
+		};
+		3BBC7D4D1C39B5D3006E86BC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "Verbo Tabs/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = javierlopeza.Verbo;
+				PRODUCT_NAME = Verbo;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		3BBC7D321C39B5D3006E86BC /* Build configuration list for PBXProject "Verbo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BBC7D491C39B5D3006E86BC /* Debug */,
+				3BBC7D4A1C39B5D3006E86BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		3BBC7D4B1C39B5D3006E86BC /* Build configuration list for PBXNativeTarget "Verbo" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				3BBC7D4C1C39B5D3006E86BC /* Debug */,
+				3BBC7D4D1C39B5D3006E86BC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 3BBC7D2F1C39B5D3006E86BC /* Project object */;
+}

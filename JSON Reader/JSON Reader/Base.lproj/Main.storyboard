@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="U7e-g9-ori">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller JSON File Alumnos-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" userLabel="View Controller JSON File Alumnos" customClass="ViewController" customModule="JSON_Reader" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" misplaced="YES" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="QIu-6Q-1qu">
+                                <rect key="frame" x="43" y="-51" width="288" height="548"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="QIu-6Q-1qu" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leadingMargin" id="4Y5-4m-uvM"/>
+                            <constraint firstItem="QIu-6Q-1qu" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" id="8i8-FE-HHf"/>
+                            <constraint firstAttribute="trailingMargin" secondItem="QIu-6Q-1qu" secondAttribute="trailing" id="NY7-I7-sf1"/>
+                            <constraint firstItem="wfy-db-euE" firstAttribute="top" secondItem="QIu-6Q-1qu" secondAttribute="bottom" id="zTm-fk-8Sh"/>
+                        </constraints>
+                    </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+                    <connections>
+                        <outlet property="InfoShow" destination="QIu-6Q-1qu" id="BQW-yv-xLn"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="251" y="71"/>
+        </scene>
+        <!--View Controller JSON File Web-->
+        <scene sceneID="kMR-1n-YYR">
+            <objects>
+                <viewController id="U7e-g9-ori" userLabel="View Controller JSON File Web" customClass="ViewController2" customModule="JSON_Reader" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="lZY-v8-d5n"/>
+                        <viewControllerLayoutGuide type="bottom" id="8Y6-7F-FAA"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Gwo-Tm-k8O">
+                        <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="lOj-Wb-Qes">
+                                <rect key="frame" x="16" y="20" width="288" height="548"/>
+                                <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
+                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="8Y6-7F-FAA" firstAttribute="top" secondItem="lOj-Wb-Qes" secondAttribute="bottom" id="9Ld-Ii-eMs"/>
+                            <constraint firstItem="lOj-Wb-Qes" firstAttribute="leading" secondItem="Gwo-Tm-k8O" secondAttribute="leadingMargin" id="H89-Za-0Z6"/>
+                            <constraint firstItem="lOj-Wb-Qes" firstAttribute="top" secondItem="lZY-v8-d5n" secondAttribute="bottom" id="JaB-p4-pxa"/>
+                            <constraint firstItem="lOj-Wb-Qes" firstAttribute="trailing" secondItem="Gwo-Tm-k8O" secondAttribute="trailingMargin" id="Sco-eg-bra"/>
+                        </constraints>
+                    </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+                    <connections>
+                        <outlet property="Texto" destination="lOj-Wb-Qes" id="q7G-OU-GZb"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="Rfi-5R-T3H" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="863" y="71"/>
+        </scene>
+    </scenes>
+</document>
